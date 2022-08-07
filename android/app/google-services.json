@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632510658417",
+    "project_id": "ingreso-egreso-bb0f9",
+    "storage_bucket": "ingreso-egreso-bb0f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632510658417:android:c28170d8626ea0b8e368d0",
+        "android_client_info": {
+          "package_name": "com.ingresoegreso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632510658417-edqmqjqj0ripn697jmt487djobevctir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2QZN6U5AJReKoB6i4O3hK_RRKTUElNSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632510658417-edqmqjqj0ripn697jmt487djobevctir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
