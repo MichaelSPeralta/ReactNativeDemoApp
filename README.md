@@ -9,9 +9,10 @@ https://docs.microsoft.com/en-us/windows/dev-environment/javascript/react-native
 ```
 
 ## To run.
-- open 2 terminals.
-- npm start
-- npx react-native run-android
+- npm i
+- open 2 terminals
+  - npm start
+  - npx react-native run-android
 
 ## To build.
 - cd /Android
