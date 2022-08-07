@@ -1,7 +1,5 @@
 # react-native-ingresoEgreso
 
-## The propoce of the following code is introduce you to react native.
-
 ## To config the enviroment.
 https://reactnative.dev/
 https://docs.microsoft.com/en-us/windows/dev-environment/javascript/react-native-for-android
